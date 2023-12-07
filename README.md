@@ -1,5 +1,5 @@
 # lysonar
-Detta är ett test för mirror igen
+OK! Detta är ett test för mirror igen
 
 
 ## Getting started
